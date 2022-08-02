@@ -1,8 +1,10 @@
 # Sythetic-Dataset-2D-Detection
 
-## You can check you bounding boxes by running:
+### You can check you bounding boxes by running:
 
-### check_2d_bb.py
+```
+check_2d_bb.py
+```
 
 ## Synthetic images with ground truth bounding boxes.
 
